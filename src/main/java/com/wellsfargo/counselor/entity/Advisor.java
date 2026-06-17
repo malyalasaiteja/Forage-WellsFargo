@@ -86,4 +86,6 @@ public class Advisor {
         this.email = email;
     }
 System.out.println("Hello World");
+System.out.println("WINDOWS");
+System.out.println("UBUNTU");
 }
